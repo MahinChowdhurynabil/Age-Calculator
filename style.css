@@ -1,0 +1,48 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: Helvetica Neue;
+}
+
+h1 {
+  font-size: 40px;
+  margin: 15px;
+}
+label {
+  margin: 8px;
+  font-weight: 900;
+  display: block;
+  font-size: 20px;
+}
+
+input {
+  font-size: 20px;
+  margin: 5px;
+  padding: 5px;
+  width: 32vw;
+  text-align: center;
+  border: 1px solid #bfbaba;
+}
+.submit {
+  border-radius: 8px;
+  font-size: 18px;
+  padding: 8px;
+  margin: 5px;
+  background: blue;
+  color: white;
+  border: none;
+  width: 33vw;
+  cursor: pointer;
+}
+p {
+  margin: 5px;
+  font-size: 18px;
+}
+.task {
+  display: block;
+  margin: 20px auto;
+  width: 40%;
+  text-align: center;
+  padding: 40px;
+  box-shadow: 2px 2px 8px rgb(36, 36, 36, 0.5);
+}
